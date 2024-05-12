@@ -1,0 +1,15 @@
+@import '../../scss/colors.scss';
+
+.drop__name {
+  color: $white;
+
+  font-family: 'CeraPro';
+  font-size: 12px;
+
+  margin: 16px 16px 0 16px;
+}
+
+.drop__image {
+  width: 120px;
+  height: 140px;
+}

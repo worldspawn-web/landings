@@ -1,0 +1,13 @@
+@import url(./scss/fonts.scss);
+@import './scss/colors.scss';
+
+* {
+  margin: 0;
+  padding: 0;
+
+  box-sizing: border-box;
+}
+
+body {
+  background-color: $cinder;
+}
